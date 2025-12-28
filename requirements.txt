@@ -1,0 +1,4 @@
+boto3
+requests
+gpiozero
+# picamera2 通常隨 Raspberry Pi OS 安裝，若無可手動安裝
