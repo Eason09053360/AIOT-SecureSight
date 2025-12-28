@@ -21,3 +21,15 @@
 請確認已安裝 Python 3，並執行以下指令安裝必要套件：
 ```bash
 pip3 install -r requirements.txt
+```
+2. 設定參數
+請下載 main.py，並填入您自己的 AWS 與 LINE 金鑰：
+AWS_ACCESS_KEY = '你的 Access Key'
+AWS_SECRET_KEY = '你的 Secret Key'
+# ... 其他設定請參考程式碼註解
+
+3. 執行程式
+python3 main.py
+
+📝 專題成員
+陳永承
