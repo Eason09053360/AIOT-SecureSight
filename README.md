@@ -14,6 +14,16 @@
 - Camera Module
 - LED 燈 x 1
 - 蜂鳴器 x 1
+![接線圖示意](https://github.com/Eason09053360/AIOT-SecureSight/blob/main/%E6%8E%A5%E7%B7%9A%E5%9C%96.jpg)
+### 接腳對照表
+
+| 元件 | 樹莓派接腳 (BCM編碼) | 備註 |
+| --- | --- | --- |
+| LED 燈 (正極) | GPIO 17 | 需串聯電阻 |
+| LED 燈 (負極) | GND | |
+| 蜂鳴器 (正極) | GPIO 27 | 有源蜂鳴器 |
+| 蜂鳴器 (負極) | GND | |
+| 相機模組 | CSI 介面 | 使用專用排線15轉22pin |
 
 ## 🚀 安裝與執行說明
 
