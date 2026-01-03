@@ -27,7 +27,7 @@
 
 ## 📺 教學資源 (Tutorials)
 **🎥 AWS 後台設定與系統操作教學**
-關於如何設定 AWS Rekognition、DynamoDB 以及 S3 Bucket，請參考我的 YouTube 教學影片：
+關於如何取得 AWS 後來相關Key,Token，請參考我的 YouTube 教學影片：
 - **[點此觀看教學影片](https://youtu.be/Cd75nsDqkZA)**
 ## 🚀 安裝與執行說明
 
